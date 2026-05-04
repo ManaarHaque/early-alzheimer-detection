@@ -1,0 +1,34 @@
+# Data folders
+data/
+ADNI/
+ADNI_NIfTI/
+*.dcm
+*.nii
+*.nii.gz
+*.csv
+*.png
+*.jpg
+
+
+#Outputs
+outputs/
+models/
+checkpoints/
+logs/
+runs/
+*.pt
+*.pth
+*.ckpt
+
+#jupyter notebooks
+.ipynb_checkpoints/
+
+#pycache
+__pycache__/
+*.pyc
+
+#environment files
+.env
+venv/
+.venv/
+
