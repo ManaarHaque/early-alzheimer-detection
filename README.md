@@ -10,7 +10,7 @@ This project aims to automate the classificationof MRI scans into 3 categories:
 
 We utilize the ADNI dataset and an approach involving a baselines model and transfer learning with EfficientNetB0
 
-## 📊 Data Source
+## Data Source
 The data used in this project is obtained from the **Alzheimer's Disease Neuroimaging Initiative (ADNI)**.
 
 * **Official Website:** [adni.loni.usc.edu](https://adni.loni.usc.edu/)
@@ -22,7 +22,7 @@ The data used in this project is obtained from the **Alzheimer's Disease Neuroim
 
 * **Numerical Decoding**: ADNI clinical metadata was mapped to patient IDs to assign ground truth labels (1=CN, 2=MCI, 3=AD).
 
-##Preprocessing the Data
+## Preprocessing the Data
 
 * **Orientation**: All scans were organized to a canonical orientation.
 
@@ -39,7 +39,7 @@ The data used in this project is obtained from the **Alzheimer's Disease Neuroim
 * **Stratified Split Result**:
   * Total Patients: 161
   * Hold Out Test Set: 25 patients
-  * K-Fold Training/Val Set: 136 patients (used 5 folds cross validation.
+  * K-Fold Training/Val Set: 136 patients (used 5 folds cross validation.)
 
 
 
