@@ -1,6 +1,4 @@
-# Deep Learning for Automated Detection of
-Alzheimer's Disease from Brain MRI
-Scans
+# Deep Learning for Automated Detection of Alzheimer's Disease from Brain MRI Scans
 
 This project aims to automate the classificationof MRI scans into 3 categories:
 
